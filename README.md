@@ -2,6 +2,10 @@
 
 Bare-metal DC motor-control ECU on an STM32F411CEU6 (Black Pill), built for the Silicon Sprint Hackathon (Embedded Systems).
 
+## Demo Video
+
+Project explanation and hardware demonstration: **[Watch the video (Google Drive)] https://drive.google.com/drive/folders/1nNRcAXU1QHfXBOM6gf9eYq1vzA1Yl1Zy?usp=sharing**
+
 ## Overview
 
 The goal is a reliable DC motor controller with **explicit operating states**, **potentiometer speed control**, **safety handling**, and **diagnostic communication**.
