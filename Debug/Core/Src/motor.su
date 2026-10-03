@@ -1,0 +1,11 @@
+../Core/Src/motor.c:20:6:Motor_Init	8	static
+../Core/Src/motor.c:28:6:Motor_SetPWM	32	static,ignoring_inline_asm
+../Core/Src/motor.c:44:6:Motor_Forward	16	static,ignoring_inline_asm
+../Core/Src/motor.c:54:6:Motor_Enable	16	static,ignoring_inline_asm
+../Core/Src/motor.c:63:6:Motor_Disable	8	static
+../Core/Src/motor.c:69:6:Motor_Stop	8	static
+../Core/Src/motor.c:79:6:Motor_EmergencyKill	8	static
+../Core/Src/motor.c:85:6:Motor_Unlock	4	static
+../Core/Src/motor.c:86:6:Motor_IsLocked	4	static
+../Core/Src/motor.c:88:6:Motor_IsOn	8	static
+../Core/Src/motor.c:94:9:Motor_GetPWM	4	static

@@ -1,0 +1,11 @@
+../Core/Src/motor.c:20:6:Motor_Init	1
+../Core/Src/motor.c:28:6:Motor_SetPWM	5
+../Core/Src/motor.c:44:6:Motor_Forward	3
+../Core/Src/motor.c:54:6:Motor_Enable	3
+../Core/Src/motor.c:63:6:Motor_Disable	1
+../Core/Src/motor.c:69:6:Motor_Stop	1
+../Core/Src/motor.c:79:6:Motor_EmergencyKill	1
+../Core/Src/motor.c:85:6:Motor_Unlock	1
+../Core/Src/motor.c:86:6:Motor_IsLocked	1
+../Core/Src/motor.c:88:6:Motor_IsOn	3
+../Core/Src/motor.c:94:9:Motor_GetPWM	1
